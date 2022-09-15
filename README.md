@@ -8,6 +8,7 @@ This was a university project which I has completed in frame of course "Addition
 # Description
 
 First of all, the initial menu of the game will appear, after which you can enter the username and set the difficulty of the game.
+
 ![menu](https://user-images.githubusercontent.com/88504487/190513825-e6b546fb-34e9-46b2-8bbd-c06bb24bb7a6.gif)
 
 In the game, you need to help Santa Claus dodge the incoming crows and deliver the gifts to the children in one piece. When colliding with a bird, lives will be lost. The longer you manage to hold out, the more you will get game points. At the end of the game you get the total number of points. The rating of each player is recorded in a file.
