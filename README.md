@@ -18,6 +18,6 @@ At the video below you can see the game in action.
 
 # Build instructions
 1. Download and install Qt (https://www.qt.io/download-open-source/)
-2. Open Qt Creator, File > Open File or Project... > Locate ExpGame.pro and select it
+2. Open Qt Creator, File > Open File or Project... > Locate GAME4.pro and select it
 3. Build project
 4. Run
