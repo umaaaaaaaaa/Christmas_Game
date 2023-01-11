@@ -17,7 +17,8 @@ At the video below you can see the game in action.
 ![game](https://user-images.githubusercontent.com/88504487/190513868-89febbbc-3da1-4450-90b7-a914dc89f070.gif)
 
 # Build instructions
-1. Download and install Qt (https://www.qt.io/download-open-source/)
-2. Open Qt Creator, File > Open File or Project... > Locate GAME4.pro and select it
-3. Build project
-4. Run
+1. Download and install Qt [downloading link](https://www.qt.io/download-open-source/), I used the 4.8.6 version of Qt
+2. Put all the files from folders and GAME4.pro file in one folder
+3. Open Qt Creator, File > Open File or Project... > Locate GAME4.pro and select it
+4. Build project
+5. Run
